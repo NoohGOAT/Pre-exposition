@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <link rel="stylesheet" href="style.css"
+            <center>
+                
+                <title>FTM Summative</title>
+                
+                <h1 style="color: #4392f1;"> FTM Pre-  <b style="color: #6657ee;">Exposition</b></strong></h1>
+               
+            </center>
+            
+    
+    </head>
+    <body>
+        
+        <center>
+            <br>
+        </center>
+        
+   
+
+
+      
+<center>
+    
+<a href="">
+    <div class="btn-contanier">
+        <button class="btn">
+            <span>Next Slide<span>
+                <img src="check-icon1.jpg" width="62" height="62"
+          
+            </button>
+    </div>
+    </a>
+</center>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+ 
+
+        
+        
+
+
+
+    </body>    
+       
